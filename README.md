@@ -1,4 +1,4 @@
-# Istanbul Dataset
+# Benchmark Building Extraction Dataset and Trained Model Weights (Istanbul Dataset)
 
 This repo contains weights of Unet++ model with SE-ResNeXt101 encoder trained with Istanbul, Inria and Massachusetts datasets seperately.
 Trainings have been realized using PyTorch and segmentation models library (https://github.com/qubvel/segmentation_models.pytorch)
