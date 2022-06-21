@@ -26,3 +26,7 @@ To run the notebook, following libraries are required:
 - scikit-image == 0.18.1
 - GDAL == 3.2.1
 - tifffile == 2021.2.1
+
+ # Citation:
+ 
+Bakirman, T., Komurcu, I. & Sertel, E., (2022)  Comparative analysis of deep learning-based building extraction methods with the new VHR Istanbul dataset, Experts Systems with Applications, vol. 202, 117346, https://doi.org/10.1016/j.eswa.2022.117346.
